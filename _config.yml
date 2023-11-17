@@ -13,6 +13,11 @@ permalink: /:title/
 
 # Authors
 authors:
+  kjh:
+    name: kjh
+    display_name: kjh
+    email: kjh@test.test
+    description: test for oss
   sal:
     name: Sal
     display_name: Sal
